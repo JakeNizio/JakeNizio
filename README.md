@@ -1,9 +1,10 @@
-<!---
-# 🌼🐿️
--->
-## PROFESSIONAL SUMMARY
+
+## 🌼🐿️
+
+## Professional Summary
 asdfasdfa
-## EDUCATION
+
+## Education
 ### Bachelor of Engineering Science: Software Engineering (2022 - 2026)
 *Western University, London, ON*
 
