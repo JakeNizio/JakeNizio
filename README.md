@@ -2,8 +2,9 @@
 ## 🌼🐿️
 
 ## Professional Summary
-asdfasdfa
-
+Driven second-year software engineering student who takes advantage of his spare time to gain
+additional skills. Excels in academics due to hard work, time management, and social intelligence.
+Currently working to gain expertise in full stack development through personal and freelance projects.
 ## Education
 ### Bachelor of Engineering Science: Software Engineering (2022 - 2026)
 *Western University, London, ON*
