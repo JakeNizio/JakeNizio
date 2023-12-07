@@ -5,7 +5,7 @@
 ## Professional Summary
 Driven second-year software engineering student who takes advantage of his spare time to gain
 additional skills. Excels in academics due to hard work, time management, and interpersonal abilities.
-Currently working to gain expertise in full stack development through personal and freelance projects.
+Currently gaining extracurricular experience in front-end development and quantum computing.
 ## Education
 ### Bachelor of Engineering Science: Software Engineering (2022 - 2026)
 *Western University, London, ON*
