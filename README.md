@@ -1,6 +1,5 @@
 
 ## 🌼🐿️
-## https://www.linkedin.com/in/jakenizio/
 
 ## Professional Summary
 Driven second-year software engineering student who takes advantage of his spare time to gain
