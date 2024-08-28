@@ -1,6 +1,3 @@
-
-## 🌼🐿️
-
 ## Professional Summary
 Driven third-year software engineering student who takes advantage of his spare time to gain
 additional skills. Excels in academics due to hard work, time management, and interpersonal abilities.
